@@ -1,0 +1,9 @@
+{
+  "persons": [
+    {"name": "John", "age": 29 , "address":"123 main st"},
+    {"name": "Ron", "age": 24 , "address":"123 Horray st"},
+    {"name": "Dan", "age": 39 , "address":"123 ram st"},
+    {"name": "Dan2", "age": 49 , "address":"567 ram st"}
+  ]   
+
+}
